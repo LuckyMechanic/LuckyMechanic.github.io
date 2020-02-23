@@ -99,7 +99,8 @@ friends: [
     },{
         title: "知乎",
         href: "https://www.zhihu.com/people/lin-shao-qing-52"
-    },{
-        title: "B站",
-        href: "https://space.bilibili.com/325318094"
+    }
+#    },{
+#        title: "B站",
+#        href: "https://space.bilibili.com/325318094"
 ]
