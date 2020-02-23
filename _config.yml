@@ -1,13 +1,13 @@
 # Site settings | 网站设置
 title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+SEOTitle: 小林同学的博客
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: lqy1024@foxmail.com
+description: "小林同学的博客"
+keyword: "RainbomSea, 小林同学的博客, rainbom sea, rainbomsea, Python blog"
+url: "http://LuckyMechanic.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/LuckyMechanic/LuckyMechanic.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
@@ -91,16 +91,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub",
+        href: "http://LuckyMechanic.github.io"
     },{
-        title: "CSDN·RainbomSea",
+        title: "CSDN",
         href: "https://blog.csdn.net/qq_39268193"
     },{
-        title: "知乎·RainbomSea",
-        href: "https://www.zhihu.com/people/RainbomSea"
-    },{
-        title: "GitBook·RainbomSea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/lin-shao-qing-52"
     }
 ]
